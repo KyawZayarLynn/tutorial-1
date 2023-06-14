@@ -1,0 +1,122 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.17.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "functional_data",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/functional_data-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "json2yaml",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/json2yaml-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "plain_optional",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/plain_optional-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pubspec_yaml",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/pubspec_yaml-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/source_span-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sqflite_common",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite_common-2.4.5+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sqflite_common_ffi",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite_common_ffi-2.2.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sqlite3",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/sqlite3-1.11.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/string_scanner-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sum_types",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/sum_types-0.3.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "synchronized",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/synchronized-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/yaml-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "CarCRUDoperation",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2023-06-14T08:10:10.181762Z",
+  "generator": "pub",
+  "generatorVersion": "3.1.0-63.1.beta"
+}
